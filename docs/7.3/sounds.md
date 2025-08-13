@@ -1,8 +1,3 @@
----
-layout: default
-title: Index
----
-
 # Playing sounds
 
 ## Sound Assets

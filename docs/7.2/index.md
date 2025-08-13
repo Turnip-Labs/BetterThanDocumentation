@@ -15,7 +15,5 @@
 * [Mixins](mixins/mixins.md)
 * [UI Basics](ui/basic_idea.md)
 
-* [License](./../LICENSE)
-
   
 > [Do you need ideas?](https://discord.com/channels/1138825919088312403/1142123554838695997)
