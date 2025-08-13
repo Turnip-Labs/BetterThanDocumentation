@@ -1,6 +1,6 @@
 # Playing sounds
 
-## Sound Assets
+## Adding sound assets
 
 The files for your sounds can be in .ogg or .wav format and must be placed in the
 
@@ -10,7 +10,7 @@ Given this example, the directory to properly use the “test.mysound” SoundTy
 
 *“/assets/test/sound/mysound.ogg”* within the resources directory.
 
-## Adding and registering your sounds
+## Registering your sounds
 
 First, use Halplbe’s SoundHelper to add a sound to the game using the beforeGameStarts() method. Then, register a SoundType in with the SoundType.register(String) method to ensure proper compatibility with servers.
 
@@ -28,11 +28,11 @@ public class GameMain implements GameStartEntrypoint {
 }
 ```
 
-# **Playing Sounds**
+## Ways to play a sound
 
 There are a two ways to play sounds.
 
-### First
+### At given coordinate
 
 ```java
 world.playSoundEffect(...); // Plays sound at a given coordinate.
@@ -59,7 +59,7 @@ world.playSoundEffect(**null**, SoundCategory.WORLD_SOUND, 100, 100, 100, "test.
 // Plays “test.mysound” at 100x 100y 100z at full volume and original pitch for all players.;
 ```
 
-### Second
+### At given entity
 
 ```java
 world.playSoundAtEntity(...); // Plays sound at a given entity.
@@ -92,5 +92,4 @@ double randomPitch = Math.random();
 
 ## Credits
 
-> Thanks to 'deeter._' for contributing to this book with their BTA sound documentation. Much appreciated!. [Document](https://docs.google.com/document/d/1s7zwg0at1eQsFArj2-GGsg-iyHXqW4CVnFmlTRlGBqM/edit?usp=sharing)
->
+> Thanks to 'deeter._' for contributing to this book with their BTA sound documentation. Much appreciated!.
