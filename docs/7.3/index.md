@@ -10,6 +10,7 @@ title: Index
 * [HUD Elements](ui/hud_elements.md)
 * [Recipes](miscellaneous/recipes.md)
 * [Sounds](miscellaneous/sounds.md)
+* [Entities](entities/entity_methods.md)
 
 * [Mixins](mixins/mixins.md)
 * [UI Basics](ui/basic_idea.md)
