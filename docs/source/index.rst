@@ -1,17 +1,12 @@
-Welcome to Lumache's documentation!
+Better than Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Better than Documentation** is a series of documents made and matained by the BTA modding community to help modders to get started with modding BTA.
+We are not affiliated with Better than Adventure, Microsoft or Mojang, all copyrights reflecting to the game and related IP go to it's original creators.
 
 .. note::
 
-   This project is under active development.
+   This project is in it's infancy.
 
 Contents
 --------
