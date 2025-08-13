@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Moddding documentation for Better than Adventure
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This repository features the community matained documentation of the internal API for Better than Adventure.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+You can read it here: https://better-than-documentation.readthedocs.io/en/latest/
