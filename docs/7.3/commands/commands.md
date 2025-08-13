@@ -1,8 +1,3 @@
----
-layout: default
-title: Index
----
-
 # Commands
 
 Commands are a way to interact with the game logic. They are useful for admins to moderate, map makers to create, modders to test their mods, and players to configure the game—among many other purposes.

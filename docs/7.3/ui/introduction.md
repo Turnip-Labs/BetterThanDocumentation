@@ -1,4 +1,4 @@
-# GUI (Without GUI Library)
+# Game User Inteface (GUI)
 
 ### Please read it before you start
 
