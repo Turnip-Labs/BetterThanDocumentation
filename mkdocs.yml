@@ -1,1 +1,5 @@
 site_name: Bette Than Documentation
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
