@@ -1,11 +1,5 @@
 site_name: Bette Than Documentation
 
-nav:
-  - Home: index.md
-  - About: about.md
-  - BTA Versions:
-      - 7.2: 7.2/index.md
-      - 7.3: 7.3/index.md
-      - 7.4: 7.4/index.md
+
 
 theme: readthedocs
