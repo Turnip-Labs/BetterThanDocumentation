@@ -1,6 +1,6 @@
 # BlockLogic
 
-This is a `BlockLogic` class for a Minecraft-like game. It implements `BlockInterface` and `IItemConvertible`, meaning it defines behavior for blocks and how they convert to items.
+It implements `BlockInterface` and `IItemConvertible`, meaning it defines behavior for blocks and how they convert to items.
 
 ### Key Fields:
 
