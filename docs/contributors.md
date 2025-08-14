@@ -28,6 +28,7 @@ Editing Markdown can be done with any plain text editor as it is made to be read
 I would recommend that you skim the surface of the following document, [here](https://github.github.com/gfm/), together with replicating patterns you see through the text as you read it.
 
 Some editors you might want to use:
+
 - [Zed](https://zed.dev/) : Simple lightweight fast.
 - [VScode](https://code.visualstudio.com/download) : Industry standard code editor.
 - [Pycharm](https://www.jetbrains.com/pycharm/) : Heavyweight full-featured DE for python and webDev, useful here as well.
