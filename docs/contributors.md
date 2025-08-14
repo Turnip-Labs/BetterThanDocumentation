@@ -41,5 +41,14 @@ The following resources can be used to learn git:
 - [Official Git documentation](https://git-scm.com/docs/giteveryday)
 - [Learn Git - The Full Course](https://www.youtube.com/watch?v=rH3zE7VlIMs&pp=ygUMYm9vdC5kZXYgZ2l0)
 
+### (Optional) Python
+
+MKDocs, the software used to generate the website is written in python and as such supports python scripts for automation.
+If you have experience with that: We are using [UV](https://docs.astral.sh/uv/) as our environment manager and poethepoet as our test runner. 
+
+You should be able to write scripts here contribute them and declare them in `pyproject.toml`.
+
+For example: `poe dev` starts the test server so you can visualize your changes locally before merging.
+
 ## With that said...
 You can find our glorious most prized repo [here.](https://github.com/Turnip-Labs/BetterThanDocumentation)
