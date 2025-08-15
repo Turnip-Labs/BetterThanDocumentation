@@ -19,16 +19,17 @@ On the GitHub repository page, locate and click the **"Use this template"** butt
 ## Project structure
 
 Your mod's directory structure should look like this:
-
+```tree
 src/main/
-├── java/turniplabs/examplemod/
-│   └── ExampleMod.java
-└── resources/
-└── lang/examplemod/
-├── en_US.lang
-├── examplemod.mixins.json
-├── fabric.mod.json
-└── icon.png
+    ├── java/turniplabs/examplemod/
+    │   └── ExampleMod.java
+    ├── resources/
+    │    └── lang/examplemod/
+    │        └── en_US.lang
+    ├── examplemod.mixins.json
+    ├── fabric.mod.json
+    └── icon.png`
+```
 
 ### Explanation:
 
