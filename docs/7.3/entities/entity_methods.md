@@ -3,8 +3,10 @@
 This document contains info what some methods of the Entity classes do.
 Please and always expand this document if you happen to find some method that isn't explicit about its function. Likewise, if you'd wish to add a small addendum to a deceptive name.
 
-> ⚠️ This document isn't extensive. it only serves to document methods that may pose issue to a new modder or lack explict explanation. 
-> Please and always decompile source code and grep to it, reverse engineering is guaranteed to give you answers with *enough* effort.
+!!! warning "This document isn't extensive"
+
+    It only serves to document methods that may pose issue to a new modder or lack explict explanation. 
+    Please and always decompile source code and grep to it, reverse engineering is guaranteed to give you answers with *enough* effort.
 
 ## `#!java public void move(double xd, double yd, double zd)`
 
