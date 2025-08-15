@@ -2,6 +2,7 @@ site_name: Better Than Documentation
 theme:
   name: material
   logo: assets/bta.svg
+  favicon: assets/bta.svg
   palette:
     scheme: slate
     primary: blue
