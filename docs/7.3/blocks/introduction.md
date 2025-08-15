@@ -75,7 +75,7 @@ For any blocks that are **not cubic**, you can use the other classes that extend
 net.minecraft.client.render.block.model
 ```
 
-# Tile Enity
+# Tile Entity
 
 A `TileEntity` is information on a instance of a block, it isn't generic.
 like, clicking on a chest is [BlockLogic](./logic.md) but the inventory is a `TileEntity`.
