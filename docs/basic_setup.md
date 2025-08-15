@@ -75,5 +75,5 @@ mod_name=examplemod # **your mod name here**
 ```
 
 ## Other templates
-* https://github.com/Turnip-Labs/bta-example-mod-kotlin
-* https://github.com/Turnip-Labs/bta-example-mod-scala
+* [kotlin](https://github.com/Turnip-Labs/bta-example-mod-kotlin)
+* [java](https://github.com/Turnip-Labs/bta-example-mod-scala)

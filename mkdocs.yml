@@ -2,6 +2,7 @@ site_name: Better Than Documentation
 theme:
   name: material
   logo: assets/bta.svg
+  favicon: assets/bta.svg
   palette:
     scheme: slate
     primary: blue
@@ -9,5 +10,16 @@ theme:
   features:
     - content.code.copy
     - content.tabs
+
 extra_css:
   - assets/custom.css
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
