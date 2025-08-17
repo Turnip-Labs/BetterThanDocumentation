@@ -34,6 +34,10 @@ Some editors you might want to use:
 - [Pycharm](https://www.jetbrains.com/pycharm/) : Heavyweight full-featured DE for python and webDev, useful here as well.
 - [Obsidian](https://obsidian.md/) : Document editor tailored for markdown, best looking and easiest to use but lacks Git support.
 
+!!! note "For Obsidian users"
+    [GitHub Desktop](https://github.com/apps/desktop) is a graphical tool to manage git made by GitHub.
+    It provides a safer, more intuitive interface to upload your contributions to the project. It is also easier than using the CLI.
+
 ### Git
 
 Git is quite easy to learn, in fact, you basically don't need to learn it really well. You will want a GitHub account to interact with our repo.
