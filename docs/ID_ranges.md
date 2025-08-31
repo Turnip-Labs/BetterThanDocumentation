@@ -8,7 +8,7 @@ As such, this document serves to document the **canonical BTA ID range**.
 
 ## Adding Mods to This List
 
-To add a mod here, simply request an available ID range of sane length in the BTA modding discord. 
+To add a mod here, simply request an available ID range of sane length in the [BTA modding discord](https://discord.com/channels/1138825919088312403/1411747698532548809). 
 It will be added to this list by one of our maintainers.
 
 If a mod not in this list runs into your declared ID range as stated here.
@@ -57,5 +57,7 @@ Please don't get yourself into keyboard fights over IDs!
     <tr><td>BTA Tiny Chunk Loader</td> <td>N/A</td> <td>N/A</td> <td>1910</td> <td>1910</td></tr>
     <tr><td>BTA Cupboards</td> <td>N/A</td> <td>N/A</td> <td>1900</td> <td>1901</td></tr>
     <tr><td>TLOTD</td> <td>19000</td> <td>19100</td> <td>11000</td> <td>11060</td></tr>
+    <tr><td>Melrose Extended Chests</td> <td>N/A</td> <td>N/A</td> <td>2504</td> <td>2505</td></tr>
+    <tr><td>BTA Chuted</td> <td>N/A</td> <td>N/A</td> <td>8664</td> <td>8664</td></tr>
 </table>
 
