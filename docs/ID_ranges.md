@@ -46,5 +46,16 @@ Please don't get yourself into keyboard fights over IDs!
     <tr><td>Catalyst: Multipart</td> <td>19640</td> <td>19640</td> <td>3256</td> <td>3257</td></tr>
     <tr><td>Golden Bat</td> <td>23232</td> <td>23232</td> <td>N/A</td> <td>N/A</td></tr>
     <tr><td>Better with Aether (BWA)</td> <td>26000</td> <td>26500</td> <td>10000</td> <td>10500</td></tr>
+    <tr><td>Stardew Farming</td> <td>22000</td> <td>22057</td> <td>6000</td> <td>6036</td></tr>
+    <tr><td>More Snow</td> <td>N/A</td> <td>N/A</td> <td>8</td> <td>60</td></tr>
+    <tr><td>Wild Wombats</td> <td>17550</td> <td>17551</td> <td>3500</td> <td>3500</td></tr>
+    <tr><td>Randomite Ore</td> <td>N/A</td> <td>N/A</td> <td>2500</td> <td>2504</td></tr>
+    <tr><td>World of Color</td> <td>21200</td> <td>21229</td> <td>1200</td> <td>1231</td></tr>
+    <tr><td>Bonus Blocks</td> <td>16650</td> <td>16663</td> <td>1500</td> <td>1700</td></tr>
+    <tr><td>Caves and Cliffs</td> <td>16650</td> <td>16663</td> <td>1500</td> <td>1700</td></tr>
+    <tr><td>BTA CC Tweaked</td> <td>19000</td> <td>19008</td> <td>1800</td> <td>1812</td></tr>
+    <tr><td>BTA Tiny Chunk Loader</td> <td>N/A</td> <td>N/A</td> <td>1910</td> <td>1910</td></tr>
+    <tr><td>BTA Cupboards</td> <td>N/A</td> <td>N/A</td> <td>1900</td> <td>1901</td></tr>
+    <tr><td>TLOTD</td> <td>19000</td> <td>19100</td> <td>11000</td> <td>11060</td></tr>
 </table>
 
