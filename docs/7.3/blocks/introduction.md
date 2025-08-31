@@ -80,7 +80,7 @@ net.minecraft.client.render.block.model
 A `TileEntity` is information on a instance of a block, it isn't generic.
 like, clicking on a chest is [BlockLogic](./logic.md) but the inventory is a `TileEntity`.
 
-See the reference [TileEntity](./tile_entities.md.md) for more details on how to configure them.
+See the reference [TileEntity](./tile_entities.md) for more details on how to configure them.
 
 > Kheppanant Khepnacious Kheppery — 12/08/2025 16:12
 
