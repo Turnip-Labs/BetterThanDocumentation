@@ -1,21 +1,24 @@
 # Canonical ID ranges
 
-From the creation of Minecraft all the way up to 1.7, Minecraft always used integers to denote blocks and items. This was a horrible idea! 
+From the creation of Minecraft all the way up to 1.7, Minecraft always used integer ID to denote blocks and items.
+This works fine for Minecraft, however not for modders.
 
-Basically, while it works fine for Mojang while making the game, modders don't have such luck. 
-There's no guarantee someone won't just place an item in any given place you might have selected.
-As such, this document serves to document the **canonical BTA ID range**.
+For Modders there is no guarantee that a given ID was not used by another mod, thus resulting in ID convicts.
+This document serves to document the **canonical BTA ID range** to avoid and resolve such conflicts.
 
 ## Adding Mods to This List
 
-To add a mod here, simply request an available ID range of sane length in the [BTA modding discord](https://discord.com/channels/1138825919088312403/1411747698532548809). 
+To add a mod here, simply publicise your used ID range in the [BTA modding discord](https://discord.com/channels/1138825919088312403/1411747698532548809). 
+Publicising your ID ranges is voluntarily, but we hightly encourag it.
 It will be added to this list by one of our maintainers.
 
-If a mod not in this list runs into your declared ID range as stated here.
-It would be common courtesy that the offending mod changes their range.
+## Confic resolution
 
-Though, keep in mind that **this document is not the law**, it can be ignored!
-Please don't get yourself into keyboard fights over IDs!
+If a mod not in this list runs into your declared ID range as stated here, it would be common courtesy that the offending mod changes their range.  
+Keep in mind this obligation is not binding.  
+
+Please resolve the conflicts with the mod maker of the offending mods and keep it civil.  
+Please don't get yourself into keyboard fights over IDs!  
 
 ## ID Ranges by Mod
 
