@@ -59,5 +59,9 @@ Please don't get yourself into keyboard fights over IDs!
     <tr><td>TLOTD</td> <td>19000</td> <td>19100</td> <td>11000</td> <td>11060</td></tr>
     <tr><td>Melrose Extended Chests</td> <td>N/A</td> <td>N/A</td> <td>2504</td> <td>2505</td></tr>
     <tr><td>BTA Chuted</td> <td>N/A</td> <td>N/A</td> <td>8664</td> <td>8664</td></tr>
+    <tr><td>Better Than Battle Towers</td><td>N/A</td><td>N/A</td><td>6340</td><td>6340</td></tr>
+    <tr><td>Washi Mod(Unreleased)</td><td>28401</td><td>28800</td><td>8401</td><td>8800</td></tr>
+    <tr><td>Faithful Nether Reactor Core Port (Unreleased)</td><td>N/A</td><td>N/A</td><td>3265</td><td>3268</td></tr>
+    <tr><td>Quite Better Than Adventure</td><td>20000</td><td>20100</td><td>4000</td><td>4100</td></tr>
+    <tr><td>Terrapon BTA</td><td>25400</td><td>25500</td><td>4700</td><td>4800</td></tr>
 </table>
-
