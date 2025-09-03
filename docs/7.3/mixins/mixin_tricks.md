@@ -45,7 +45,7 @@ public abstract class BiomeMixin {
 }
 ```
 
-## Replace a Item
+## Replace an Item
 
 ```java
 @Mixin(value = Items.class, remap = false)
@@ -54,7 +54,8 @@ public class ItemsMixin {
 	private static void replaceItems(CallbackInfo ci) {
 		Item.itemsList[Items.PAPER.id] = null;
 		Item.itemsMap.remove(Items.PAPER.namespaceID);
-		Items.PAPER =new CustomItemPaper("paper","minecraft:item/paper", 16467);
+		String name = Items.PAPER.getKey().substring(Items.PAPER.getKey().indexOf(".") + 1);
+		Items.PAPER = new CustomItemPaper(name, Items.PAPER.namespaceID.toString(), Items.PAPER.id);
 	}
 }
 ```
