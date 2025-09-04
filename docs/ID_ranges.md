@@ -12,7 +12,7 @@ To add a mod here, simply publicise your used ID range in the [BTA modding disco
 Publicising your ID ranges is voluntarily, but we hightly encourag it.
 It will be added to this list by one of our maintainers.
 
-## Confic resolution
+## Conflict resolution
 
 If a mod not in this list runs into your declared ID range as stated here, it would be common courtesy that the offending mod changes their range.  
 Keep in mind this obligation is not binding.  
