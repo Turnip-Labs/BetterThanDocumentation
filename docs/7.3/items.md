@@ -19,7 +19,7 @@ public class ExampleItem extends Item {
 By default, your item class will take three arguments:
 
 1. translationKey - used to translate your item, has to be unique
-2. namespaceId - A string used to identify your item, has to be unique. Format is Namespace:Value.
+2. namespaceId - A string used to identify your item, has to be unique. The Format for this is "Namespace:Value".
 2. itemId - A number used to identify your Item, has to be unique.
 
 ```java 
