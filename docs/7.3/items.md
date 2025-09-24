@@ -23,7 +23,7 @@ By default, your item class will take three arguments:
 2. itemId - A number used to identify your Item, has to be unique.
 
 ```java 
-new ExampleItem("ExampleItem", ":ExampleMod.ExampleItem", 30000)
+new ExampleItem("ExampleItem", "ExampleMod:ExampleItem", 30000)
 ```
 
 It is advisable to create a helper method for generating items Numeric Ids.
