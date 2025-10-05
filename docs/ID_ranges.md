@@ -67,4 +67,8 @@ Please don't get yourself into keyboard fights over IDs!
     <tr><td>Faithful Nether Reactor Core Port (Unreleased)</td><td>N/A</td><td>N/A</td><td>3265</td><td>3268</td></tr>
     <tr><td>Quite Better Than Adventure</td><td>20000</td><td>20100</td><td>4000</td><td>4100</td></tr>
     <tr><td>Terrapon BTA</td><td>25400</td><td>25500</td><td>4700</td><td>4800</td></tr>
+    <tr><td>Trommel Factory</td><td>N/A</td><td>N/A</td><td>2780</td><td>2785</td></tr>
+    <tr><td>DEEP</td><td>28043</td><td>28090</td><td>9807</td><td>9885</td></tr>
+    <tr><td>Iron Furnaces</td><td>N/A</td><td>N/A</td><td>664</td><td>675</td></tr>
+    <tr><td>Paperwork</td><td>23000</td><td>23030</td><td>13000</td><td>1330</td></tr>
 </table>
