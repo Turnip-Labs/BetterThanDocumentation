@@ -51,7 +51,7 @@ This ensures each block gets a unique ID without manually incrementing each one.
 
 # Interacting with blocks
 
-if you aren't building a decorative block, and you want to implement your onw logic, you should use a [BlockLogic](./logic.md) inherited class.
+if you aren't building a decorative block, and you want to implement your own logic, you should use a [BlockLogic](./logic.md) inherited class.
 
 ```java
 import net.minecraft.core.block.Block;
